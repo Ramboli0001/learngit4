@@ -1,0 +1,8 @@
+import java.lang.*;
+public String getProducetionName(){
+  int i=0;
+  String ko="testone";
+  String allstr=i+ko;
+  System.out.println(allstr);
+  return allstr;
+}
