@@ -1,0 +1,4 @@
+import java.lang.*;
+public static void main(arg 0){
+   System.out.println();
+}
